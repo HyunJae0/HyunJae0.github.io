@@ -1,6 +1,8 @@
 ---
-layout: post
-title: "First Post"
+layout: default
+title: First Post
 date: 2026-03-18 00:00:00 +0900
-categories: blog
+permalink: /first-post/
 ---
+
+# First Post
